@@ -1,7 +1,7 @@
 # What PHMSA Data Reveals About Pipeline Failures
 
-**Published:** 2025-08-19
-**Medium:** [https://medium.com/@kyle-t-jones/what-phmsa-data-reveals-about-pipeline-failures-8780d5498b80](https://medium.com/@kyle-t-jones/what-phmsa-data-reveals-about-pipeline-failures-8780d5498b80)
+Published: 2025-08-19
+Medium: [https://medium.com/@kyle-t-jones/what-phmsa-data-reveals-about-pipeline-failures-8780d5498b80](https://medium.com/@kyle-t-jones/what-phmsa-data-reveals-about-pipeline-failures-8780d5498b80)
 
 ## About
 
