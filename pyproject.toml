@@ -3,6 +3,12 @@ name = "what-phmsa-data-reveals-about-pipeline-failures"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "pydantic>=2.10.0",
+    "pytest>=8.0",
     "matplotlib>=3.10.9",
     "pandas>=3.0.3",
 ]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
