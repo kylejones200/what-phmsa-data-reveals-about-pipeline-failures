@@ -1,0 +1,13 @@
+[package]
+name = "what_phmsa_data_reveals_about_pipeline_failures_bench"
+description = "Standalone Rust benchmark (no Python)"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "bench"
+path = "src/main.rs"
+
+[dependencies]
+what_phmsa_data_reveals_about_pipeline_failures_core = { path = "../core" }

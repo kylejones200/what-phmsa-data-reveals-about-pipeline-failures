@@ -1,0 +1,15 @@
+[package]
+name = "what_phmsa_data_reveals_about_pipeline_failures_rs"
+description = "Python bindings (PyO3) for what_phmsa_data_reveals_about_pipeline_failures_core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[lib]
+name = "what_phmsa_data_reveals_about_pipeline_failures_rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+what_phmsa_data_reveals_about_pipeline_failures_core = { path = "../core" }
+pyo3 = { version = "0.28", features = ["extension-module"] }
+numpy = "0.28"

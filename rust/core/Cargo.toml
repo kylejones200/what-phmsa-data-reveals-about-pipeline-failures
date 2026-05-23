@@ -1,0 +1,9 @@
+[package]
+name = "what_phmsa_data_reveals_about_pipeline_failures_core"
+description = "issues_per_mile = issues / miles"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[lib]
+path = "src/lib.rs"
