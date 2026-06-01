@@ -11,14 +11,7 @@ The stacked bar chart shows the breakdown of incidents, leaks, and failures by c
 
 In contrast, other causes like construction errors, corrosion, and third-party damage fall in the low hundreds. Weather events, incorrect operations, internal corrosion, and stress cracking barely register by comparison.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Rust performance port
 
